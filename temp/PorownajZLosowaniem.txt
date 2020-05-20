@@ -1,0 +1,8 @@
+Iloœæ liczb: 10   Trafionych: 2
+Iloœæ liczb: 20   Trafionych: 5
+Iloœæ liczb: 30   Trafionych: 8
+Iloœæ liczb: 40   Trafionych: 12
+Iloœæ liczb: 50   Trafionych: 13
+Iloœæ liczb: 60   Trafionych: 13
+Iloœæ liczb: 70   Trafionych: 15
+Iloœæ liczb: 80   Trafionych: 20

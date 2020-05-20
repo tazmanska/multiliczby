@@ -1,0 +1,6 @@
+numer	opis
+
+1	blad z plikiem z wynikami
+2	blad w 'kombinacje.pas' procedure TForm14.pokaz_etykiety_ml(ile: byte);
+3	jw. pokaz_etykiety_dl
+4	jw. pokaz_etykiety_el

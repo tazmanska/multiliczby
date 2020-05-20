@@ -1,0 +1,90 @@
+ostatnie prace nad:
+
+Eksport.Eksportuj(...)
+
+- obs³uga dowolnie tworzonych gier - ustalanie zakresu wprowadzanych liczb
+
+
+- forum - wysy³anie wiadomoœci przy u¿yciu w³asnej klasy zamiast Indy
+
+
+- w oknie zapisu rozszerzonego wybór separatora, w opcjach eksportu wybór separatora dla zapisu zwyk³ego
+- eksport w formatach XML i CSV
+- ostrze¿enie przy dodawaniu losowania jeœli istnieje ju¿ losowanie z tak¹ dat¹
+- ³¹czenie œci¹gnieje bazy wyników z aktualn¹ baz¹
+- forum na full okno ze splitterem
+- opcja usuwania zawartosci katalogu /temp przy wyjsciu z programu (musi zrobic plik Uwaga!.txt)
+- przenisc opcje forum do opcji programu
+- Opcje: Zawsze pokazuj okno z opcjami (TXT) [main, opcje_zapisu_txt, bool]
+- opcje zapisu do pliku TXT: separator, nazwy kolumn, poziomo/pionowo, naglowek
+- lepsza obsluga pluginow, menu pluginy a w nim wszystkie pluginy i menadzer pluginow
+- kopiowanie do zestawow 1, Analizuj losowanie itd
+- Zestawy, synchronizacja scrolli
+- Buduj system zmien na Generuj system strefowy
+- sprawdzenie czy mozna sciagnac plik z wynikami ze strony lotto (http://serwis.lotto.pl:8080/archiwum/wyniki_wszystkie.php?id_gra=3)
+- dodanie sortowania liczb kazdego sortowania
+- Zestawy - zapis tabeli trafien do pliku
+- Inne statystyki - Koncowki - lewa tabela, dodac mozliwosc zmiany przerzucania liczb (srednia lub wybrana liczba (combobox))
+- Inne statystyki - Koncowki - zapis tabelki po lewej
+- Podaj liczby zapamietuje liczby wpisane ostatnio w danych statystykach (statystyki/narzedzia zapisuja te liczby do pliku opcje.ini i przekazuja je do okna w czasie wywolywania)
+- Zestawy - zapis poszczegolnych tabeli do plikow (menu pod prawym klawiszem)
+- funkcja uruchamiajaca poszczegolne okna, sprawdza wczesniej czy sa jakies wyniki losowan
+- usuniecie okna rejestracji, rejestracja ma polegac jedynie na skopiowaniu pliku klucz.ini, program po uruchomieniu wyswietla komunikat w przypadku - braku pliku klucz.ini, - blednych kluczy, po komunikacie wylacza sie
+- usuniecie menu Opcje->Opcje, niech zostanie tylko Opcje tak jak to jest z pozycja Koniec
+- wskazanie katalogu - nie dodaje znaku '\'
+
+- Mapa Pozycje pozycje ustawienie i mo¿liwoœæ wyswietlania z przeskokiem o 2,3 4 losowania
+- zapisywanie w Okresowosc
+- okresowosc zestawow (audytor) + tak jak poj. liczby (okresowosc)
+- mapa strefy wg. multipio
+- generator systemow skroconych strefowych + reduktor
+- wpisywanie od 1 do 3 liczb w Super Systemach i Generatorze systemow
+- dziennik gry
+- mapa graficzna na pelny ekran
+- statystyki inne - dodac liczby kolejne
+- drukowanie kuponow
+- numery kombinacji
+- trafialnosc w liczbach pojedynczych
+- w chmurkach (1-5, kombinacje) pokazuje uklad wystepowania max do 10 losowan wstecz
+- narzedzie Moje liczby, automatyczne wczytywanie do okna Podaj liczby
+- schowek - mozliwosc kopiowania liczb z tabel do okna Podaj liczby
+- drukowanie bezposrednio z programu
+- wspolczynnik systemu wg. jasze
+- Kazda liczba tylko 1-5 razy
+- czestotliwosc - dni tygodnia
+- zapisa dat losowan przy zapisie do HTML
+
+- sortowanie w kombinacjach dzia³a Ÿle, sortuje wg. ustawienie - 1
+- liczenie iloœci wystêpowania w £¹cz w parki/trójki liczy Ÿle
+
+
+Gdy ustawiê program na  Kombinacje-ustawienia;
+zop> kombinacje-7,wed³ug 7/7 wybraniu 40 liczb i  klikniêciu oblicz
+zop> nie pokazuje zestawów  lecz komunikat;Range  check error.
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
++ poprawa kolorow okna Losowania i belki z wynikami pod WinXP (sprawdzenie czy jest oka pod Win98)
++ Forum -> Opcje - Sprawdzaj... jako checkbox i jesli wlaczony to przy starcie program ma wlaczac sprawdzanie a jak nie to nie, po kliknieciu na ten checkbox niech wyswietla sie okno "Zmiana bedzie wprowadzona po ponownym uruchomieniu programu", zamiana miejsc przyciskow "Zapisz" "Anuluj"
++ sprawdzenie czy sa nowe posty przy pomocy klasy Dowloader (przerobka skryptu chat.php -> przemianowac na forum.php)
++ sciaganie nowych postow z forum przy pomocy klasy Downloader
++ mozliwosc wylaczenia pokazywania wizytownki
++ mozliwosc wylaczenia pytania czy zamknac program
++ sprawdzenie na starcie czy jest plik z wynikami, jesli nie to odpowienia informacja co nalezy zrobic
++ zapamietywanie rozmiarow komorki w mapie I
++ mapa I jako NIEmodalne okno
++ automatyczne dolaczanie zdefiniowanego podpisu na forum
++ do odpowiedzi na forum dopisywac RE[numer] zamiast RE: RE: itd
++ sprawdzanie czy sa nowe posty w trakcie dzialania programu i wyswietlenie info w pasku
++ okno z opcjami forum
++ okno do pisania wiadomosci nie jest modalne i jego pokazanie blokuje przyciski Napisz, Odpowiedz
++ zmiana kosmetyczna paska statusu
++ poprawka dla windows 98, 98se, me, zwiazana z wyswietlaniem okna Losowania, paska narzedziowego z ikonami i wynikami losowan w oknie glownym
++ pole w pasku statusu z forum pokazuje informacje po najechaniu kursorem, po dwukrotynym kliknieciu otwiera forum
++ po dwukrotnym kliknieciu na napisie "Licencja dla: XXX" otwiera sie okno "O programie"
++ poprawa funkcji sciagania wynikow (powinno zawsze dzialac bo korzysta z kontrolki IE)
++ informacja o pustym linku do pliku z wynikami
++ poprawione sprawdzanie czy sa nowe posty (pasek stanu)
++ wieksza tolerancja dla pliku z losowaniami (puste linie, linie bez liczb itp)
++ opcje - okno wskazania katalogu - naciskam anuluj i kasuje wskazanie katalogu z wynikami i raportu

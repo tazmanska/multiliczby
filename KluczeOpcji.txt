@@ -1,0 +1,7 @@
+Ustawienia zapisywane w pliku opcje.ini
+
+'main', 'pytaj_przed_zamknieciem', true - okreœla czy przed zamkniêciem programu ma byæ wyœwietlone okno z zapytaniem czy napewno zakoñczyæ program
+
+'eksport', 'katalog', SCIEZKA_RAPORTY - domyœlny katalog dla raportów ustawiany przy pierwszym eksporcie
+'eksport', 'separator', 9 - separator wykorzystywany do eksportu do oddzielenia kolumn grida
+'eksport', 'prosty', true - okreœla czy ma byæ wyœwietlone okno z dodatkowymi opcjami do eksportu

@@ -1,0 +1,31 @@
+[ MultiLiczby 2.20 PRO   ]
+[ pelna wersja           ]
+[ program platny         ]
+[ angusek@wp.pl          ]
+[ www.multiliczby.prv.pl ]
+
+
++ dodane
+- usuniete
+* poprawione/zmienione
+
+Zmiany w stosunku do wersji 2.15:
+
++ sortowanie losowan podczas wczytywania
++ mozliwosc wprowadzania losowan niepokolei
+* wczytywanie matryc systemow
+* wczytywanie zestawow liczb do narzedzia Zestawy
++ kilka dodatkowych opcji w Zestawach
++ zapisywanie 1,2,3,4,5 i kombinacji do plikow zestawow (*.zes)
+* zmiana kolejnosci ustawiania ilosci trafien w ukladzie (Uklady)
++ zaznaczanie kolorem w Mapie I
+* Kazda liczba tylko 1-5 razy
++ Kazda liczba tylko... w Analiza losowania
+
+
++ pamietanie ustawien kazdych statystyk i narzedzi
+* zmiana organizacji opcji
+* ustawianie zakresow i katalogow przeniesione do okna Opcje
+
+
+* drobne poprawki

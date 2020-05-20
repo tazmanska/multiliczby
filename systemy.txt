@@ -1,0 +1,24 @@
+od wersji 2.0 program umozliwia generacje systemu jak i przeglad i latwe uzupelnianie systemow
+
+aby system zostal poprawnie wczytany przez program musi:
+ - miec rozszerzenie .mss i znajdowac sie w katalogu 'systemy'
+ - pierwsza linijka w pliku systemu to opis lub inne informacje
+ - druga linijka to liczba skreslen
+ - trzecie linijka to ilosc liczb uzytych w systemie
+ - czwarta linijka to ilosc zakladow systemu
+ - nastepne linijki to liczby systemu odzielone dowolnym separatorem roznym od liczby
+ - nalezy pamietac o tym, ze lik z systemem nie moze zawierac zadnych pustych linii
+
+przykladowy plik systemu:
+System strefowy 3x2-1 , wygenerowany przez program MultiLiczby.
+3
+6
+8
+  1  3  5
+  1  3  6
+  1  4  5
+  1  4  6
+  2  3  5
+  2  3  6
+  2  4  5
+  2  4  6

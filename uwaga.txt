@@ -1,0 +1,6 @@
+statystyki piatek potrzebuja nastepujacej ilosci pamieci:
+ML: ~230 MB
+DL: ~19 MB
+EL: ~9 MB
+
+w przypadku multilotka potrzebny jest takze bardzo szybki i wydajny procesor

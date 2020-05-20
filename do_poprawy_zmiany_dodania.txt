@@ -1,0 +1,26 @@
+W wersjach 2.16/2.20/2.26 wystêpuje
+jeden b³¹d .Gdy wchodzi sie w
+narzêdzia , dalej \ Generator liczb i zamyka sie t¹ funkcjê
+i chce ca³kowicie zmkn¹æ program to wyskakuje komunikat ( B³¹d wewnêtrzny
+00013 B³¹d zamykania okien )
+
+============================================================================
+
+Tak na dzieñ dobry dzisiaj to widzia³ bym mo¿liwoœæ wprowadzania dodatkowych parametrów w Mapie nr.1
+
+Np. Wprowadzam zakres zaznacz kolumny z liczbami w których czas oczekiwania na trafienie wynosi 4 losowania lub wiêcej i takie kolumny zostaja zaznaczone.Wa¿n¹ rzecz¹ nastêpn¹ jest mo¿liwoœæ wyeksportowania i zapisania nastepnie tylko tych kolumn liczb spe³niaj¹cych zadane parametry.
+
+=======================
+
+Importuj losowanie (do statystyk jako liczby)
+
+=======================
+
+"Nakazuj¹c"  programowi aby dopisywa³ do pliku txt choæby w jednej linijce  Nr/ datê losowania  i najchêtniej u¿yty parametr .Dobrze  by by³o  aby na planszy statystyki by³o takie okienko w  które my u¿ytkownicy wpisywalibyœmy " coœ '"  a te  "coœ" wchodzi³o by do pliku txt wraz  z np tabelk¹  generowan¹ przez program. 
+
+=========================
+
+Wczyta³em zestawy czwórek i czyta³em rozk³ad trafieñ - nastepnie korzysta³em z innego zestawu czwórek.Po wczytaniu ponownie tego pierwszego zestawu zauwazy³em,¿e pokazywane s¹ inne wartoœci trafieñ i po sprawdzeniu okaza³o sie,¿e sa to wartosci b³êdne.
+
+==========================
+
